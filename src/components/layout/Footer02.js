@@ -83,19 +83,19 @@ class Footer extends React.Component {
                   </ul>
                 </div>
                 <div className="footer-block">
-                  <div className="footer-block-title">Docs</div>
+                  <div className="footer-block-title">Contact</div>
                   <ul className="list-reset mb-0">
                     <li>
-                      <a href="https://cruip.com/">The purpose of lorem</a>
+                      <a href="mailto: info@topviewai.com">info@topviewai.com</a>
                     </li>
                     <li>
-                      <a href="https://cruip.com/">Dummy text used</a>
+                      <a href="#"></a>
                     </li>
                     <li>
-                      <a href="https://cruip.com/">Excepteur sint</a>
+                      <a href="#">Excepteur sint</a>
                     </li>
                     <li>
-                      <a href="https://cruip.com/">Occaecat cupidatat</a>
+                      <a href="#">Occaecat cupidatat</a>
                     </li>
                   </ul>
                 </div>
