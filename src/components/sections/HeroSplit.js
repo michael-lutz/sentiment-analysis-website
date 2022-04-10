@@ -86,7 +86,7 @@ class HeroSplit extends React.Component {
                     We apply sentiment analysis on the entire internet. Understand how people feel about your brand, and make informed decisions.
                   </p>
                   <ButtonGroup>
-                    <Button tag="a" color="primary" href="#" wideMobile>
+                    <Button tag="a" color="primary" href="https://forms.gle/gnC9NQctzQosfYLf6" wideMobile>
                       Contact
                     </Button>
                     {/*<Button tag="a" color="dark" href="#" wideMobile>
