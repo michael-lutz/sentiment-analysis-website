@@ -46,9 +46,9 @@ class Footer extends React.Component {
               <div className="footer-blocks">
                 <div className="footer-block">
                   <Logo className="mb-16" />
-                  <div className="footer-copyright">&copy; 2020 Tidy, all rights reserved</div>
+                  <div className="footer-copyright">&copy; 2022 Topview AI Consulting, all rights reserved</div>
                 </div>
-                <div className="footer-block">
+                {/*<div className="footer-block">
                   <div className="footer-block-title">Company</div>
                   <ul className="list-reset mb-0">
                     <li>
@@ -98,7 +98,7 @@ class Footer extends React.Component {
                       <a href="#">Occaecat cupidatat</a>
                     </li>
                   </ul>
-                </div>
+              </div> */}
               </div>
             </div>
             <div className="footer-bottom space-between center-content-mobile text-xxs">
