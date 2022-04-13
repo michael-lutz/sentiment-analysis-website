@@ -74,7 +74,7 @@ class FeaturesSplit extends React.Component {
                     Sentiment Analysis AI
                   </h3>
                   <p className="m-0 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
-                    We developed a sentiment analysis model trained on more than 50+ million online interactions (tweets, comments, and more). It achieves more than 98% accuracy. It can detect how people feel about policies, products, and social media posts.
+                    We developed a stance detection model trained on more than 50+ million online interactions (tweets, comments, and more). It achieves more than 98% accuracy. It can detect how people feel about policies, products, and social media posts.
                   </p>
                 </div>
                 <div className={
